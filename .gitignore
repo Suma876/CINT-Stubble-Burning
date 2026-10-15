@@ -1,0 +1,40 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System / logs
+*.log
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Raw satellite datasets
+data/raw/
+
+# Python-generated cache
+__pycache__/
+
+outputs/Suma_Sunar_1DA23AI051.png

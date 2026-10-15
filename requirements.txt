@@ -1,0 +1,11 @@
+earthengine-api>=1.7.47
+pandas>=2.2.0
+numpy>=2.0.0
+geopandas>=1.0.0
+shapely>=2.0.0
+pyproj>=3.8.0
+matplotlib>=3.10.0
+pillow>=11.0.0
+rasterio>=1.4.0
+requests>=2.32.0
+pytest>=8.0.0
