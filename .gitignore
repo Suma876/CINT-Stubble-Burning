@@ -26,15 +26,8 @@ Desktop.ini
 
 # System / logs
 *.log
+
 # Secrets
 .env
 .env.*
 !.env.example
-
-# Raw satellite datasets
-data/raw/
-
-# Python-generated cache
-__pycache__/
-
-outputs/Suma_Sunar_1DA23AI051.png
